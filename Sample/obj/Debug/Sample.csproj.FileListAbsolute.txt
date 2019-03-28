@@ -1,0 +1,6 @@
+c:\users\jitu\documents\visual studio 2015\Projects\Sample\Sample\bin\Debug\Sample.exe.config
+c:\users\jitu\documents\visual studio 2015\Projects\Sample\Sample\bin\Debug\Sample.exe
+c:\users\jitu\documents\visual studio 2015\Projects\Sample\Sample\bin\Debug\Sample.pdb
+c:\users\jitu\documents\visual studio 2015\Projects\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+c:\users\jitu\documents\visual studio 2015\Projects\Sample\Sample\obj\Debug\Sample.exe
+c:\users\jitu\documents\visual studio 2015\Projects\Sample\Sample\obj\Debug\Sample.pdb
