@@ -7,7 +7,10 @@ namespace Sample
 {
     class Program
     {
+        //add a comment here to show changes in the github
+        //hii there is some changes
         //static SqlConnection cn;
+        //hii hii
         static void Main(string[] args)
         {
             //searchDept();
